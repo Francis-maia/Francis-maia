@@ -2,7 +2,7 @@
 
 > Estudante de Sistemas de Informação | Foco em Análise de Dados
 
-Estudante de Sistemas de Informação (Uninter) em transição para a área de Dados, com experiência em auditoria hospitalar e saúde suplementar. Atualmente desenvolvo projetos de análise exploratória end-to-end, automações e dashboards utilizando Python (Pandas, NumPy), SQL e Power BI.
+Estudante de Sistemas de Informação em transição para a área de Dados, com experiência em auditoria hospitalar e saúde suplementar. Atualmente desenvolvo projetos de análise exploratória end-to-end, automações e dashboards utilizando Python (Pandas, NumPy), SQL e Power BI.
 
 ---
 
